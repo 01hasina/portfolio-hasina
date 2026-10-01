@@ -1,0 +1,2 @@
+export const achievement = { title: 'Créathon 2024 — Lauréate', edition: '10e édition', place: 'France', period: '22 – 28 Juin 2024', description: 'Accélération en équipe d’un projet de plateforme collaborative entre pairs au sein de Passerelles Numériques Madagascar.' };
+export const engagement = { title: 'YouthCan! Youth Council Global', organization: "SOS Children's Villages International", period: '2025 – Aujourd’hui', description: "Représentation et plaidoyer en faveur des droits et de l'autonomisation des jeunes." };
