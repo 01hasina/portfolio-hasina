@@ -53,5 +53,6 @@ public/        Static metadata assets; add the real CV PDF here
 
 - Update the content in `src/data/`.
 - Add the real CV as `public/Hasina-Ramisedra-CV.pdf`.
+- The hero portrait is stored as `public/images/hasina-headshot.webp`.
 - Add verified GitHub and LinkedIn profile URLs to `src/data/profile.ts`.
 - Set `NEXT_PUBLIC_SITE_URL` to your production domain for canonical metadata, robots and sitemap URLs.
