@@ -23,7 +23,7 @@
   height: 268px;
   transform: translateX(-50%);
   object-fit: cover;
-  object-position: center 35%;
+  object-position: center top;
   border: 7px solid var(--surface);
   border-radius: 112px 112px 5px 5px;
   box-shadow: var(--shadow);
